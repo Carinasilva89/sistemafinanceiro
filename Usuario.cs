@@ -4,7 +4,7 @@ private string? nome;
 private string? cpf;
 private string? email;
 private int? id;
-
+private string? sobrenome;
 public Usuario(){
 
 }
